@@ -7,10 +7,11 @@ All required functions are called by the main, and the user only needs to insert
 The selecting menu looks like:
 
 `Choose a function:
-1. Retrieve basic information about the DNA/RNA sequence
-2. Obtain the reverse complement of the DNA sequence
-3. Translate the original RNA sequence
-4. Find a motif in your DNA/RNA sequence
-5. Find the longest ORF in the sequence (complement not included)
-6. Enter new sequence
+1. Retrieve basic information about the DNA/RNA sequence(s)
+2. Obtain the reverse complement of the DNA sequence(s)
+3. Translate the original RNA sequence(s)
+4. Find a motif in your DNA/RNA sequence(s)
+5. Find the longest shared motif among your sequences
+6. Find the longest ORF in the sequence(s) (complement not included)
+7. Enter new sequence(s)
 0. Exit`
