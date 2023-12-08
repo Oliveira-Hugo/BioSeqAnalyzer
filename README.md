@@ -14,4 +14,4 @@ The selecting menu looks like:
 5. Find the longest shared motif among your sequences
 6. Find the longest ORF in the sequence(s) (complement not included)
 7. Enter new sequence(s)
-0. Exit```
+0. Exit
